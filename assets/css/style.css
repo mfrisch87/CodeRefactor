@@ -18,11 +18,9 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
-}
-
-.header h1 .horiseon {
     color: #d9dcd6;
 }
+
 
 .header div {
     padding-top: 15px;
