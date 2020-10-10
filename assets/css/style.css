@@ -121,19 +121,9 @@ p {
     text-align: center;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
+/* Consolidated benefits img tags */
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -166,6 +156,7 @@ p {
     color: #ffffff;
 }
 
+/* Consolidated the separate image css together */
 .content img {
     max-height: 200px;
 }
