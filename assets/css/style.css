@@ -15,12 +15,14 @@ body {
     color: #ffffff;
 }
 
+/* Consolidated h1 tags since there is one h1 tag*/
 h1 {
     display: inline-block;
     font-size: 48px;
     color: #d9dcd6;
 }
 
+/* Consolidated class specific h2 tags to just h2 since all were the same. */
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
